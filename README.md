@@ -1,1 +1,3 @@
 # courses
+
+## project notes
